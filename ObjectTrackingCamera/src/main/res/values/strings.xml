@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ObjectTracking</string>
+    <string name="devices">Bluetooth LE Devices</string>
+
+    <string name="camera_permission_title">Camera permission required</string>
+    <string name="camera_permission_message">This app uses camera only for object tracking and sent the object location to your BLE connected device, the information from your camera is not sent or collected anywhere else</string>
+
+    <string name="location_permission_title">Location permission required</string>
+    <string name="location_permission_message">This app does not use the location, but Bluetooth Low Energy (BLE) scanning will only work if Location services are enabled on the device</string>
+
+    <string name="location_denied_title">Location permission denied</string>
+    <string name="location_denied_message">Because location permission has not been granted, Bluetooth LE devices cannot be scanned by this app.</string>
+    <string name="pairing_request">PAIRING requested\n-> Perform pairing steps. Connect again</string>
+</resources>

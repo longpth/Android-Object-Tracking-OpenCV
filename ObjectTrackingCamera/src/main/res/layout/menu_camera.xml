@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ble_setup"
+        android:title="Bluetooth Setup..." />
+    <item
+        android:id="@+id/camera_cordinate"
+        android:title="Show Coordinate..."/>
+    <item
+        android:id="@+id/tracker_type"
+        android:title="Tracker Selection..."/>
+    <item
+        android:id="@+id/ble_status"
+        android:title="BLE not connect"
+        app:showAsAction="always" />
+</menu>

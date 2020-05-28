@@ -1,0 +1,3 @@
+include ':ObjectTrackingCamera'
+rootProject.name='ObjectTracking'
+include ':openCVLibrary348'
